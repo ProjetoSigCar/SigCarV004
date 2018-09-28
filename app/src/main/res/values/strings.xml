@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SigCar</string>
+    <string name="title_activity_musica">MusicaActivity</string>
+
+
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>New Age</item>
+        <item>Blues</item>
+    </array>
+
+</resources>
